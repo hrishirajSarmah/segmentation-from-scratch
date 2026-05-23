@@ -1,4 +1,4 @@
-# segmentation-from-scratch
+# Image Segmemtation using UNET
 
 A minimal PyTorch + Albumentations implementation of a U-Net for binary image segmentation, with utilities for dataset loading, train/val splits, checkpointing, and saving prediction visualizations.
 
