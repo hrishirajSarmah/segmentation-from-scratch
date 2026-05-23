@@ -87,6 +87,3 @@ During training, prediction previews are saved to `saved_images/`:
 ## Common issues
 - If `my_checkpoint.pth.tar` is missing, either set `LOAD_MODEL = False` or place the checkpoint file in the project root.
 - If `sklearn` import fails due to SciPy on macOS, reinstall `scikit-learn` and `scipy` in the same environment.
-
-## License
-Add a license if you plan to share or publish this project.
